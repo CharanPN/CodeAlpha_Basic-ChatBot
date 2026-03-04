@@ -16,8 +16,10 @@ Bot : Type 'bye' to exit.
 
 You : hey
 Bot : Hey!
+
 You : how are you
 Bot : I'm fine, thanks!
+
 You : what is today's date
 Bot : Today is Wednesday, 04-03-2026 and current time is 14:26
 
