@@ -10,7 +10,7 @@ A basic rule-based chatbot built using Python.
 - Exit with "bye"
 
 ## Sample Conversation
-
+```
 Bot : Welcome to Simple Chatbot!
 Bot : Type 'bye' to exit.
 
@@ -43,3 +43,4 @@ Bot : Why did the student eat his homework? Because the teacher said it was a pi
 
 You : bye
 Bot : Goodbye!
+```
