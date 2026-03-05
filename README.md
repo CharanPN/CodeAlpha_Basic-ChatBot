@@ -1,13 +1,28 @@
-# Simple Python Chatbot
+#  Simple Python Chatbot
 
-A basic rule-based chatbot built using Python.
+A basic rule-based chatbot built using Python.  
+The chatbot can respond to greetings, tell random jokes, and provide the current date and time.
 
-## Features
+##  Features
 - Greeting responses
 - Random jokes
-- Time and date response
-- Help command
-- Exit with "bye"
+- Current date and time response
+- Basic help interaction
+- Exit command using `bye`
+
+##  Technologies Used
+- Python
+- Random module
+- Datetime module
+
+##  How to Run
+
+1. Make sure Python is installed.
+2. Clone the repository.
+- git clone https://github.com/CharanPN/CodeAlpha_Basic_ChatBot.git
+3. Navigate to the project folder.
+- cd CodeAlpha_Basic_ChatBot
+4. Run the program.
 
 ## Sample Conversation
 ```
@@ -44,3 +59,7 @@ Bot : Why did the student eat his homework? Because the teacher said it was a pi
 You : bye
 Bot : Goodbye!
 ```
+
+
+##  Author
+P N Charan
